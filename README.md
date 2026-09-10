@@ -1,0 +1,2 @@
+# novatool-config
+NovaTool config
